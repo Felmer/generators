@@ -205,9 +205,9 @@ The example code below is public domain.
 {0}
 
 Beispiele
---------
+---------
 
-Der Beispielcode unten ist Public Domain.
+Der Beispielcode ist Public Domain.
 """
     }
 
